@@ -1,4 +1,4 @@
-# Alura
+# Alura Imessão em Dados 4
 
 Esse projeto é resultado da quarta edição da Imerssão em dados da Alura  realizado de 23 a 27 de maio de 2022. A Alura promoveu o evento focado em manipulação e analise de dados em 5 aulas online, cada uma com vários desafios. O workshop de ciência de dados da Alura teve como objetivo apresentar os comandos Python e suas principais bibliotecas de análise de dados, além de uma última aula sobre Machine Learning.
 
